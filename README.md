@@ -1,4 +1,5 @@
 **Movie Registry - Android App**
+
 **Descripción**
 Movie Registry es una aplicación Android desarrollada en Kotlin utilizando Jetpack Compose para facilitar el registro, visualización y eliminación de películas en una colección personal.
 
